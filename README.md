@@ -25,6 +25,7 @@
                     var dados= await leitor.Read('>> digite o nome do seeu arquivo aqui<<.csv');
                 </code>
             </pre>
+            <p>Após isso, digite o script node index.js e gere seus arquivos!</p>
             <p>Para qualquer dúvida em relação ao software e outras questões, entre em contato nas seguintes redes sociais:</p>
             <ul>
                 <li><a href="https://www.linkedin.com/in/eduardo-augusto-07/">Linkedin</a></li>
