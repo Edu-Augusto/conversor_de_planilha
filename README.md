@@ -32,5 +32,3 @@
                 <li>Email: duduaugustooliveira@gmail.com</li>
             </ul>
         </div>
-
-    </div>
