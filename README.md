@@ -22,7 +22,7 @@
             <p>Para inicializar o programa e obter os resultados esperados, crie sua planilha com a extensão .csv e salve dentro da pasta do projeto.É recomendável que salve com             o nome de <strong"planilha"</strong> para não haver necessidade de modificar o código, mas caso queira outro nome, modifique o seguinte script do arquivo index.js:</p>
             <pre>
                 <code>
-                    var dados= await leitor.Read('>> digite o nome do seeu arquivo aqui<<.csv');
+                    var dados= await leitor.Read('>> digite o nome do seu arquivo aqui<<.csv');
                 </code>
             </pre>
             <p>Após isso, digite o script<strong> "node index.js" </strong> no CMD e gere seus arquivos!</p>
